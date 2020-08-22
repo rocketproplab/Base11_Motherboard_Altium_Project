@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PSZPEGSY
 
 [Document10]
-DocumentPath=MIC_AND_SPEAKER.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JYQWENSK
-
-[Document11]
 DocumentPath=MAX3488AEGSA+.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBDMDPDY
 
-[Document12]
+[Document11]
 DocumentPath=MAX14830ETM+.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHTTLZIF
 
-[Document13]
+[Document12]
 DocumentPath=Motherboard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=MOBO_Rev2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
